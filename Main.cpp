@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Main class" << endl;
+	cout << "Main struct biachh" << endl;
 }
